@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=DESKTOP-H4MTILH;Initial Catalog=NOP;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=sa123",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
