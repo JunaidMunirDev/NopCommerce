@@ -3,6 +3,7 @@ using Nop.Web.Factories;
 using Nop.Web.Framework.Components;
 
 namespace Nop.Web.Components
+    //gtgtgtg
 {
     public class PollBlockViewComponent : NopViewComponent
     {
